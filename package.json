@@ -1,0 +1,23 @@
+{
+  "name": "@enhanceralph/npm_sample",
+  "version": "1.0.0",
+  "description": "npm sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kisaku1978/npm_sample.git"
+  },
+  "keywords": [
+    "npm",
+    "sample"
+  ],
+  "author": "Kisaku",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kisaku1978/npm_sample/issues"
+  },
+  "homepage": "https://github.com/kisaku1978/npm_sample#readme"
+}
